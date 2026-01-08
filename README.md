@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Christian 👋
 
-<!--
-**KiiChann/KiiChann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning web development with a focus on building practical, real-world skills.
 
-Here are some ideas to get you started:
+## 🌱 What I’m learning
+- HTML5 & semantic structure  
+- CSS3 (layouts, responsiveness)  
+- Git & GitHub for version control  
+- Building projects through hands-on labs and exercises
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 How I learn
+I document my progress through labs, notes, and small projects.  
+You can find my learning repository here:
+- 📂 [Learning Workshops and Labs](https://github.com/KiiChann/learning-workshops-and-labs)
+
+## 🎯 Goals
+- Build a solid foundation in front-end web development  
+- Create and publish real projects  
+- Transition into a tech-focused role through consistent learning
+
+## 📫 Let’s connect
+Feel free to explore my repositories and follow my progress.
